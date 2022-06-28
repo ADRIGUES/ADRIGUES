@@ -15,6 +15,6 @@
 
 - Remador🛶 nos tempos possíveis.
 
-- Pai, Filho e Esposo. 👨‍👩‍👧‍👦Família é algo demais precioso.
+- Pai, Filho e Esposo. Família é algo demais precioso 💎.
 
 - Hello World🌌🔭! 

@@ -11,7 +11,7 @@
 
 - Estou 🛠️construindo um novo caminho.
 
-- Programação 🧮💻 e Data Science 🧩🌐♻️🎛️🤖🎡 é o que há! 
+- Programação 🧮💻 e Data Analytcs 🧩🌐♻️🎛️🤖🎡 é o que há! 
 
 - Remador🛶 nos tempos possíveis.
 

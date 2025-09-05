@@ -11,7 +11,7 @@
 <img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D32%26pause%3D1000%26color%3D00BFFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D550%26lines%3DOl%25C3%25A1!%2BEu%2Bsou+Alexandre;Bem-vindo(a)+ao+meu+perfil+GitHub!+%F0%9F%91%8B;Aprendiz de novas tecnologias+Bacharel em Estatística;Sempre+aprendendo+e+criando...;Vamos+nos+conectar!+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 <br>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm53aXB6eW13cjBydzl1ZjBxcGY1bHZrY3hnd3N5bmIzNWZqcGZwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HUplkVCPY7jTW/giphy.gif" width="300" height="150"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm53aXB6eW13cjBydzl1ZjBxcGY1bHZrY3hnd3N5bmIzNWZqcGZwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HUplkVCPY7jTW/giphy.gif" width="150" height="300"/>
 </div>
 
 <!-- Divisor -->

@@ -15,7 +15,7 @@ Sinta-se à vontade para se inspirar, mas não se esqueça de adicionar seu toqu
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D32%26pause%3D1000%26color%3D00BFFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D550%26lines%3DOl%25C3%25A1!%2BEu%2Bsou+[SEU-NOME-AQUI];Bem-vindo(a)+ao+meu+perfil+GitHub!+%F0%9F%91%8B;Desenvolvedor(a)+[SUA-ESPECIALIDADE-AQUI];Sempre+aprendendo+e+criando...;Vamos+nos+conectar!+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D32%26pause%3D1000%26color%3D00BFFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D550%26lines%3DOl%25C3%25A1!%2BEu%2Bsou+[SEU-NOME-AQUI];Bem-vindo(a)+ao+meu+perfil+GitHub!+%F0%9F%91%8B;Aprendiz de novas tecnologias+Bacharel em Estatística;Sempre+aprendendo+e+criando...;Vamos+nos+conectar!+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 <br>
 <img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
@@ -30,9 +30,9 @@ Sinta-se à vontade para se inspirar, mas não se esqueça de adicionar seu toqu
 <div align="center">
 <h2 align="center">👨‍💻 Sobre Mim</h2>
 <p align="left" style="max-width: 800px;">
-💡 Sou um(a) entusiasta de tecnologia e desenvolvimento, apaixonado(a) por transformar ideias em soluções digitais. Atualmente, estou focado(a) em aprimorar minhas habilidades em <strong>[SUA ÁREA DE FOCO, ex: Desenvolvimento Web Full-Stack, Ciência de Dados, Mobile]</strong>.
+💡 Sou um(a) entusiasta de tecnologia e Artificial Inteligence, apaixonado(a) por transformar ideias em soluções digitais. Atualmente, estou focado(a) em aprimorar minhas habilidades em <strong>[Inteligência Artificial com foco em Gestão Pública]</strong>.
 <br><br>
-🎓 Formado(a) em <strong>[SEU CURSO]</strong> pela <strong>[SUA UNIVERSIDADE]</strong>.
+🎓 Formado(a) em <strong>[Estatística]</strong> pela <strong>[SUA UNIVERSIDADE]</strong>.
 <br>
 🌱 Atualmente estudando e explorando <strong>[TECNOLOGIA QUE VOCÊ ESTÁ APRENDENDO]</strong>.
 <br>

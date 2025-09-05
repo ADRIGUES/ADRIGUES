@@ -34,9 +34,9 @@ Sinta-se à vontade para se inspirar, mas não se esqueça de adicionar seu toqu
 <br><br>
 🎓 Formado(a) em <strong>[Estatística]</strong> pela <strong>[SUA UNIVERSIDADE]</strong>.
 <br>
-🌱 Atualmente estudando e explorando <strong>[TECNOLOGIA QUE VOCÊ ESTÁ APRENDENDO]</strong>.
+🌱 Atualmente estudando e explorando <strong> Inteligência Artificial e Agentes</strong>.
 <br>
-💬 Me chame para conversar sobre <strong>[SEUS INTERESSES, ex: startups, design, games, código limpo]</strong>.
+💬 Me chame para conversar sobre <strong> Inteligência Artificial em Gestão Pública </strong>.
 <br>
 📫 Contate-me através dos links abaixo!
 </p>
@@ -45,7 +45,7 @@ Sinta-se à vontade para se inspirar, mas não se esqueça de adicionar seu toqu
 <!-- Links Sociais -->
 
 <div align="center">
-<a href="mailto:SEU-EMAIL-AQUI@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="mailto:SEU-EMAIL-adrigues@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.google.com/search?q=https://linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a>
 <a href="https://www.google.com/search?q=https://instagram.com/SEU-INSTAGRAM-AQUI" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <!-- Adicione mais redes se quiser, como Twitter, Discord, etc. -->
@@ -104,13 +104,13 @@ Sinta-se à vontade para se inspirar, mas não se esqueça de adicionar seu toqu
 
 <div align="center">
 <h2 align="center">📊 Minhas Estatísticas no GitHub</h2>
-<a href="https://www.google.com/search?q=https://github.com/SEU-USUARIO-AQUI">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSEU-USUARIO-AQUI%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSEU-USUARIO-AQUI%26layout%3Dcompact%26langs_count%3D7%26theme%3Dtokyonight"/>
+<a href="https://www.google.com/search?q=https://github.com/adrigues">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dadrigues%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dadrigues%26layout%3Dcompact%26langs_count%3D7%26theme%3Dtokyonight"/>
 </a>
 <br><br>
-<a href="https://www.google.com/search?q=https://github.com/SEU-USUARIO-AQUI">
-<img title="🔥 Streak Stats" alt="GitHub Streak" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DSEU-USUARIO-AQUI%26theme%3Dtokyonight%26hide_border%3Dfalse"/>
+<a href="https://www.google.com/search?q=https://github.com/adrigues">
+<img title="🔥 Streak Stats" alt="GitHub Streak" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dadrigues%26theme%3Dtokyonight%26hide_border%3Dfalse"/>
 </a>
 </div>
 

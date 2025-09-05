@@ -27,7 +27,7 @@
 <div align="center">
 <h2 align="center">👨‍💻 Sobre Mim</h2>
 <p align="left" style="max-width: 800px;">
-💡 Sou um entusiasta de tecnologia, dados e AI, apaixonado por transformar ideias em soluções digitais. Atualmente, focado(a) em aprimorar as antigas e aprender novas habilidades em <strong>Inteligência Artificial com foco em Gestão Pública</strong>.
+💡 Sou um entusiasta em tecnologias, dados e AI, apaixonado por transformar ideias em soluções digitais. Atualmente, focado(a) em aprimorar as antigas e aprender novas habilidades em <strong>Inteligência Artificial com foco em Gestão Pública</strong>.
 <br><br>
 🎓 Formado em <strong>Estatística</strong> pela <strong>UFPA</strong>.
 <br>

@@ -1,20 +1,22 @@
-## ADRIGUES
-
-**Hello World🌌🔭** 
-
-..."A imaginação é anti-destino"
-                      (ACAS)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Aprendiz+de+novas+tecnologias+Bacharel+em+Estatística;Sempre+aprendendo+e+criando...)](https://git.io/typing-svg)
-                     
-<div align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D32%26pause%3D1000%26color%3D00BFFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D550%26lines%3DOl%25C3%25A1!%2BEu%2Bsou+Alexandre;Bem-vindo(a)+ao+meu+perfil+GitHub!+%F0%9F%91%8B;Aprendiz de novas tecnologias+Bacharel em Estatística;Sempre+aprendendo+e+criando...;Vamos+nos+conectar!+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<table>
+<tr>
+<!-- Coluna da Esquerda: Textos -->
+<td width="60%" valign="top">
+<h2>ADRIGUES</h2>
+<p><strong>Hello World🌌🔭</strong></p>
+<p>..."A imaginação é anti-destino"</p>
+<p>(ACAS)</p>
 <br>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm53aXB6eW13cjBydzl1ZjBxcGY1bHZrY3hnd3N5bmIzNWZqcGZwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HUplkVCPY7jTW/giphy.gif" width="150" height="300"/>
-</div>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Aprendiz+de+novas+tecnologias;Bacharel+em+Estatística;Sempre+aprendendo+e+criando..." alt="Typing SVG"/>
+</a>
+</td>
+<!-- Coluna da Direita: Imagem GIF -->
+<td width="40%" valign="top" align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm53aXB6eW13cjBydzl1ZjBxcGY1bHZrY3hnd3N5bmIzNWZqcGZwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HUplkVCPY7jTW/giphy.gif" width="225" height="450"/>
+</td>
+</tr>
+</table>
 
 <!-- Divisor -->
 
@@ -25,9 +27,11 @@
 <div align="center">
 <h2 align="center">👨‍💻 Sobre Mim</h2>
 <p align="left" style="max-width: 800px;">
-💡 Sou um(a) entusiasta de tecnologia e Artificial Inteligence, apaixonado(a) por transformar ideias em soluções digitais. Atualmente, estou focado(a) em aprimorar minhas habilidades em <strong>[Inteligência Artificial com foco em Gestão Pública]</strong>.
+💡 Sou um entusiasta de tecnologia, dados e AI, apaixonado por transformar ideias em soluções digitais. Atualmente, focado(a) em aprimorar as antigas e aprender novas habilidades em <strong>Inteligência Artificial com foco em Gestão Pública</strong>.
 <br><br>
-🎓 Formado(a) em <strong></strong> pela <strong>UFPA</strong>.
+🎓 Formado em <strong>Estatística</strong> pela <strong>UFPA</strong>.
+<br>
+🎓 Especialista em Controladoria e Gestão Pública <strong>Estatística</strong>.
 <br>
 🌱 Atualmente estudando e explorando <strong> Inteligência Artificial e Agentes</strong>.
 <br>

@@ -32,7 +32,7 @@ Sinta-se à vontade para se inspirar, mas não se esqueça de adicionar seu toqu
 <p align="left" style="max-width: 800px;">
 💡 Sou um(a) entusiasta de tecnologia e Artificial Inteligence, apaixonado(a) por transformar ideias em soluções digitais. Atualmente, estou focado(a) em aprimorar minhas habilidades em <strong>[Inteligência Artificial com foco em Gestão Pública]</strong>.
 <br><br>
-🎓 Formado(a) em <strong>[Estatística]</strong> pela <strong>[SUA UNIVERSIDADE]</strong>.
+🎓 Formado(a) em <strong></strong> pela <strong>UFPA</strong>.
 <br>
 🌱 Atualmente estudando e explorando <strong> Inteligência Artificial e Agentes</strong>.
 <br>
@@ -118,7 +118,7 @@ Sinta-se à vontade para se inspirar, mas não se esqueça de adicionar seu toqu
 
 <div align="center">
 <h2 align="center">🐍 Minhas Contribuições</h2>
-<img src="https://www.google.com/search?q=https://github.com/SEU-USUARIO-AQUI/SEU-USUARIO-AQUI/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+<img src="https://www.google.com/search?q=https://github.com/adrigues/adrigues/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
 
 <!-- Divisor Final -->
@@ -130,5 +130,5 @@ Sinta-se à vontade para se inspirar, mas não se esqueça de adicionar seu toqu
 <!-- Contador de Visitantes -->
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DSEU-USUARIO-AQUI%26label%3DVisitantes%2Bno%2BPerfil%26color%3D00BFFF%26style%3Dflat" alt="Contador de Visitantes"/>
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dadrigues%26label%3DVisitantes%2Bno%2BPerfil%26color%3D00BFFF%26style%3Dflat" alt="Contador de Visitantes"/>
 </p>

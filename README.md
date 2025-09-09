@@ -31,7 +31,7 @@
 <br><br>
 🎓 Formado em <strong>Estatística</strong> pela <strong>UFPA</strong>.
 <br>
-🎓 Especialista em Controladoria e Gestão Pública <strong>Estatística</strong>.
+🎓 Especialista em <strong>Controladoria e Inteligência em Gestão Pública</strong>.
 <br>
 🌱 Atualmente estudando e explorando <strong> Inteligência Artificial e Agentes</strong>.
 <br>

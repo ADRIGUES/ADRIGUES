@@ -8,7 +8,7 @@
 <p>(ACAS)</p>
 <br>
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Aprendiz+de+novas+tecnologias;Bacharel+em+Estatística;Sempre+aprendendo+e+criando..." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Entusiasta+em+tecnologias,+dados+e+AI,+apaixonado+por+transformar+ideias+em+soluções;+Sempre+aprendendo+e+criando..." alt="Typing SVG"/>
 </a>
 </td>
 <!-- Coluna da Direita: Imagem GIF -->

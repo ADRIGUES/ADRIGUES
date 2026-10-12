@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou o Adrigues (@ADRIGUES)
 
-Sou um **entusiasta por aprendizado** e movido pela curiosidade de sempre descobrir coisas novas! Atualmente, atuo como Analista Judiciário e Gestor Público, com uma formação muito sólida em **Estatística, Contabilidade, Controladoria e Gestão Pública**.
+Sou um **entusiasta por aprendizado** e movido pela curiosidade de sempre descobrir coisas novas!
 
 Recentemente, embarquei no empolgante mundo da programação com o apoio do **Vibecode**. Meu principal objetivo é unir meu background analítico em gestão com a tecnologia para automatizar tarefas, analisar dados e resolver problemas reais do dia a dia no serviço público.
 
